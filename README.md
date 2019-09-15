@@ -1,2 +1,2 @@
 # Nofilter
-Nofilter Campaign files, Including Website, Cigarette butt detector AI, and graphic Assets
+Nofilter Campaign files, Including Website, Cigarette butt detector AI, and graphic assets
